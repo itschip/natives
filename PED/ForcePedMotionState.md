@@ -25,7 +25,7 @@ Regarding p2, p3 and p4: Most common is 0, 0, 0); followed by 0, 1, 0); and 1, 1
             Stealth = 1110276645,  
             Sprint = -1115154469,  
             Swim = -1855028596,  
-            Unknown1 = 1063765679,  
+            Combat stance = 1063765679,
             Unknown2 = -633298724,  
         }  
 ```

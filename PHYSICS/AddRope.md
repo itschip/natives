@@ -15,7 +15,7 @@ Add_Rope(pos.x,pos.y,pos.z,0.0,0.0,0.0,20.0,4,20.0,1.0,0.0,false,false,false,5.0
 When attached, Position<vector> does not matter  
 When attached, Angle<vector> does not matter  
 Rope Type:  
-4 and bellow is a thick rope  
+4 and below is a thick rope  
 5 and up are small metal wires  
 0 crashes the game  
 Max_length - Rope is forced to this length, generally best to keep this the same as your rope length.  
